@@ -147,10 +147,10 @@ The Stakeholder Champion represents the interests of business stakeholders withi
 
 ---
 
-## Support/Operations Liaison
+## Support Operations Liaison
 
 ### Role Summary
-The Support/Operations Liaison ensures that the team adequately prepares for the operational impact of each release. They coordinate operational readiness activities, communicate known issues to support teams, and serve as the first point of contact for incident escalation after deployment.
+The Support Operations Liaison ensures that the team adequately prepares for the operational impact of each release. They coordinate operational readiness activities, communicate known issues to support teams, and serve as the first point of contact for incident escalation after deployment.
 
 ### Responsibilities
 - Assess operational readiness for each release, including runbooks, monitoring, and support documentation
