@@ -92,13 +92,6 @@ The Release Manager coordinates all activities required to deliver a software re
 - Ensure repeatable, low-friction deployments
 - Maintain a reliable release cadence aligned with product commitments
 
-### Interactions with Existing Roles
-- **Project Manager**: aligns on release scope, dates, and risk escalations
-- **Developers**: confirms build artifacts, deployment steps, and rollback procedures
-- **QA Lead**: obtains formal test sign-off before authorizing production deployment
-- **Product Manager**: validates that release scope matches committed features
-- **Stakeholders**: issues pre-release notifications and post-release summaries
-
 ### Typical Communication
 - Release readiness checklists and go/no-go meeting notes
 - Deployment runbooks and rollback plans
@@ -122,12 +115,6 @@ The QA Lead owns the overall test strategy, quality gates, and sign-off readines
 - Prevent defects from reaching production through rigorous coverage and early feedback
 - Shorten feedback loops between development and quality validation
 - Maintain a shared understanding of release readiness across the team
-
-### Interactions with Existing Roles
-- **Project Manager**: reports test status, defect trends, and release-blocking issues
-- **Developers**: reviews acceptance criteria, provides defect details, and collaborates on test automation
-- **Release Manager**: delivers formal test sign-off as part of the go/no-go process
-- **Product Manager**: aligns on acceptance criteria and edge cases that require coverage
 
 ### Typical Communication
 - Test plans and coverage reports
@@ -153,12 +140,6 @@ The Stakeholder Champion represents the interests of business stakeholders withi
 - Improve the quality and relevance of stakeholder communications
 - Enable faster priority decisions by providing context to the project team
 
-### Interactions with Existing Roles
-- **Project Manager**: collaborates on status reporting and escalation paths
-- **Product Manager**: provides stakeholder context when resolving backlog trade-offs
-- **Developers**: shares business context to inform technical prioritization
-- **Release Manager**: advises on stakeholder communication before and after releases
-
 ### Typical Communication
 - Stakeholder briefings and feedback summaries
 - Escalation notes and priority trade-off recommendations
@@ -183,13 +164,6 @@ The Support/Operations Liaison ensures that the team adequately prepares for the
 - Ensure support and operations teams are prepared before any deployment
 - Shorten mean time to resolution (MTTR) for post-release incidents
 
-### Interactions with Existing Roles
-- **Project Manager**: reports operational risks and post-release incident trends
-- **Release Manager**: confirms operational readiness as part of the go/no-go process
-- **Developers**: coordinates on runbooks, hotfix procedures, and monitoring alerts
-- **QA Lead**: aligns on known defects and workarounds that must be communicated to support teams
-- **Stakeholders**: provides operational status updates and incident summaries when needed
-
 ### Typical Communication
 - Operational readiness checklists and support handoff notes
 - Known-issues summaries distributed before each release
@@ -200,4 +174,3 @@ The Support/Operations Liaison ensures that the team adequately prepares for the
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
